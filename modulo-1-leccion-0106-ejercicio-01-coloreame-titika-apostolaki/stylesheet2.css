@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    background: linear-gradient(180deg, mediumpurple 50%, #00FFFF 50%);
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+h1, h2, h3 {
+    color: rebeccapurple
+}
+
+a {
+    color: white
+}
+
+p {
+    color: white
+}
+
+ul {
+    color: rebeccapurple
+}

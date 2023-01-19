@@ -1,0 +1,28 @@
+body {
+    margin: 10px 30px;
+  }
+  .col {
+    display: inline-block;
+    width: 140px;
+    margin-right: 10px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  .box {
+    border: 1px solid deeppink;
+    width: 130px;
+    height: 130px;
+  }
+  
+  .box--1 {
+    background-color: cyan;
+  }
+    
+  .box--2 {
+    background-image: url("https://via.placeholder.com/130x130?text=Aqui+iba+Bill+Murray");
+  }
+  
+  .box--3 {
+  background: url("https://via.placeholder.com/90x90?text=Aqui+iba+Bill+Murray") center no-repeat cyan;
+  }
